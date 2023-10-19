@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QAXpow5kKA8TIcZLgRoEgZq/9nTBJY0nL3NvUFQni7w9gBvVP3SqW4ELqNFFskXBUihukbD8PDZEQStlK3H/ng==",
+  "dgSpecHash": "uvWf5E5qzvOS70UL2UkqK4Uv98m7hAWQFAP0/7tcs8AMUJuXOLkv/chhmAaK+rQy1RtkVrSXCEtbGXoYKRTxJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\robin\\OneDrive - Hogeschool West-Vlaanderen\\MCT\\Sem 3\\Advanced Software Engineering\\W05\\ase-w05\\Exercise02\\Exercise02.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\robin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
