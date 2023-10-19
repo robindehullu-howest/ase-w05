@@ -1,0 +1,14 @@
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\bin\Debug\net7.0\Exercise03.exe
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\bin\Debug\net7.0\Exercise03.deps.json
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\bin\Debug\net7.0\Exercise03.runtimeconfig.json
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\bin\Debug\net7.0\Exercise03.dll
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\bin\Debug\net7.0\Exercise03.pdb
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\obj\Debug\net7.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\obj\Debug\net7.0\Exercise03.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\obj\Debug\net7.0\Exercise03.AssemblyInfo.cs
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\obj\Debug\net7.0\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\obj\Debug\net7.0\Exercise03.dll
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\obj\Debug\net7.0\refint\Exercise03.dll
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\obj\Debug\net7.0\Exercise03.pdb
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\obj\Debug\net7.0\Exercise03.genruntimeconfig.cache
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise03\obj\Debug\net7.0\ref\Exercise03.dll
