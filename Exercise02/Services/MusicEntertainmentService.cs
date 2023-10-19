@@ -16,19 +16,27 @@ public class MusicEntertainmentService: IMusicEntertainmentService
 
     public async Task<List<Artist>> GetArtists() => await _artistRepository.GetArtists();
 
-    public async Task<Artist> GetArtist(int id) => await _artistRepository.GetArtist(id);
+    public async Task<Artist> GetArtist(int id)
+    {
+        List<Artist> artists = await _artistRepository.GetArtists();
+        return artists.FirstOrDefault(a => a.Id == id);
+    }
 
     public async Task<List<Concert>> GetConcerts() => await _concertRepository.GetConcerts();
 
-    public async Task<Concert> GetConcert(int id) => await _concertRepository.GetConcert(id);
+    public async Task<Concert> GetConcert(int id)
+    {
+        List<Concert> concerts =  await _concertRepository.GetConcerts();
+        return concerts.FirstOrDefault(c => c.Id == id);
+    }
 
     public async Task<List<Concert>> GetConcertsByArtist(int artistId)
     {
-        Artist artist = await _artistRepository.GetArtist(artistId);
+        Artist artist = await GetArtist(artistId);
         List<Concert> concerts = new List<Concert>();
         foreach (int concertId in artist.ConcertIds)
         {
-            Concert concert = await _concertRepository.GetConcert(concertId);
+            Concert concert = await GetConcert(concertId);
             concerts.Add(concert);
         }
         return concerts;
