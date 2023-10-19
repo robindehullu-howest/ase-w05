@@ -1,0 +1,17 @@
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\bin\Debug\net7.0\Exercise01.exe
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\bin\Debug\net7.0\Exercise01.deps.json
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\bin\Debug\net7.0\Exercise01.runtimeconfig.json
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\bin\Debug\net7.0\Exercise01.dll
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\bin\Debug\net7.0\Exercise01.pdb
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\obj\Debug\net7.0\Exercise01.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\obj\Debug\net7.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\obj\Debug\net7.0\Exercise01.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\obj\Debug\net7.0\Exercise01.AssemblyInfo.cs
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\obj\Debug\net7.0\Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\obj\Debug\net7.0\Exercise01.csproj.CopyComplete
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\obj\Debug\net7.0\Exercise01.dll
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\obj\Debug\net7.0\refint\Exercise01.dll
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\obj\Debug\net7.0\Exercise01.pdb
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\obj\Debug\net7.0\Exercise01.genruntimeconfig.cache
+C:\Users\robin\OneDrive - Hogeschool West-Vlaanderen\MCT\Sem 3\Advanced Software Engineering\W05\ase-w05\Exercise01\obj\Debug\net7.0\ref\Exercise01.dll
